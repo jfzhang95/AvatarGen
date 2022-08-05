@@ -1,7 +1,7 @@
 # AvatarGen: A 3D Generative    Model  for  Animatable Human Avatars
 Code repository for the paper:  
 **AvatarGen: A 3D Generative    Model  for  Animatable Human Avatars**  
-[Jianfeng Zhang](https://jeff95.me)\*, [Zihang Jiang](https://zihangjiang.github.io/)\*, [Dingdong Yang](https://sites.google.com/site/jshfeng/), [Hongyi Xu](https://sites.google.com/site/jshfeng/), [Yichun Shi](https://sites.google.com/site/jshfeng/),  [Guoxian Song](https://sites.google.com/site/jshfeng/),  [Zhongcong Xu](https://sites.google.com/site/jshfeng/), [Xinchao Wang](https://sites.google.com/site/jshfeng/), [Jiashi Feng](https://sites.google.com/site/jshfeng/)  
+[Jianfeng Zhang](https://jeff95.me)\*, [Zihang Jiang](https://zihangjiang.github.io/)\*, [Dingdong Yang](https://dblp.org/pid/213/8223.html), [Hongyi Xu](http://www-scf.usc.edu/~hongyixu/), [Yichun Shi](https://seasonsh.github.io/),  [Guoxian Song](https://guoxiansong.github.io/homepage/index.html),  [Zhongcong Xu](https://github.com/zcxu-eric), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/), [Jiashi Feng](https://sites.google.com/site/jshfeng/)  
 Arxiv Preprint, 2022 <br>
 [[paper](https://arxiv.org/pdf/2208.00561.pdf)] [[project page (coming soon)](https://jeff95.me/)]
 
