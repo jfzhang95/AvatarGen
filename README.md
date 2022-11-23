@@ -14,11 +14,20 @@ Arxiv Preprint, 2022 <br>
    </tr>
 </table>
 
+
+<table style="border:0px">
+   <tr>
+       <td><img src="assets/teaser_4.gif" width="400px" frame=void rules=none></td>
+       <td><img src="assets/teaser_5.gif" width="400px"  frame=void rules=none></td>
+   </tr>
+</table>
+
 <table style="border:0px">
    <tr>
        <td><img src="assets/teaser_3.gif" width="825px" frame=void rules=none></td>
    </tr>
 </table>
+
 
 **Please check out our latest high-resolution (512x512) results!**
 <table style="border:0px">
