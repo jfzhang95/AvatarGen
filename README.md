@@ -33,14 +33,6 @@ Arxiv Preprint, 2022 <br>
 
 
 
-<table style="border:0px">
-   <tr>
-       <td><img src="assets/teaser_3.gif" width="825px" frame=void rules=none></td>
-   </tr>
-</table>
-
-
-
 ## Citation
 If you  find the idea or code of this paper useful for your research, please consider citing us:
 
